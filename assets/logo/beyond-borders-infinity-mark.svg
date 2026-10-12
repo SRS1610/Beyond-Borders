@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-8 14 204 92" width="408" height="184" role="img" aria-label="Beyond Borders mark"><title>Beyond Borders mark</title><defs>
+<linearGradient id="ag" x1="40" y1="96" x2="182" y2="24" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0B3BD0"/><stop offset=".5" stop-color="#1668F5"/><stop offset="1" stop-color="#27A6FF"/></linearGradient>
+<linearGradient id="as" x1="-4" y1="0" x2="104" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#1668F5" stop-opacity="0"/><stop offset=".45" stop-color="#2F7BFF" stop-opacity=".95"/><stop offset=".78" stop-color="#CFE6FF"/><stop offset="1" stop-color="#FFFFFF"/></linearGradient>
+<filter id="ab" x="-20%" y="-300%" width="140%" height="700%"><feGaussianBlur stdDeviation="2.2"/></filter>
+<mask id="am" maskUnits="userSpaceOnUse" x="-10" y="0" width="210" height="120"><rect x="-10" width="210" height="120" fill="#fff"/><path d="M96.70 44.92L123.30 75.08" stroke="#000" stroke-width="19.5" fill="none"/><path d="M-6 59.7L106 54.4V65.6Z" fill="#000"/></mask>
+</defs>
+<path d="M92.50 40.16A30 30 0 1 0 92.50 79.84L127.50 40.16A30 30 0 1 1 127.50 79.84Z" fill="none" stroke="url(#ag)" stroke-width="13.5" stroke-linejoin="round" mask="url(#am)"/>
+<path d="M-4 60L104 56.6V63.4Z" fill="url(#as)" filter="url(#ab)" opacity=".7"/>
+<path d="M-4 60L104 57.2V62.8Z" fill="url(#as)"/>
+<path d="M92.50 40.16L127.50 79.84" fill="none" stroke="url(#ag)" stroke-width="13.5"/></svg>
